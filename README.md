@@ -1,2 +1,2 @@
-# CodeGym_Java
- Exercise Java in CodeGym
+#Advanced-Programming-with-Java
+ Exercise module 2 in CodeGym
